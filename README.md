@@ -5,8 +5,10 @@ An overview of some web development basics. This repo is intended to be both a t
 ## Some technologies used
 
 - Skeleton CSS
+- Alpine JS
 
 ## Todo Items
 
 - Finish up Landing page
+- Look up Semantic HTML
 - Start HTML section
